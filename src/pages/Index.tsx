@@ -7,7 +7,7 @@ import WhyFluxaro from "@/components/WhyFluxaro";
 import HowItWorks from "@/components/HowItWorks";
 import CaseStudiesSection from "@/components/CaseStudiesSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
-import PricingSection from "@/components/PricingSection";
+
 import FAQSection from "@/components/FAQSection";
 import CTASection from "@/components/CTASection";
 import Footer from "@/components/Footer";
@@ -27,7 +27,7 @@ const Index = () => (
     <HowItWorks />
     <CaseStudiesSection />
     <TestimonialsSection />
-    <PricingSection />
+
     <FAQSection />
     <CTASection />
     <Footer />
