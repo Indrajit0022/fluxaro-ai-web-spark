@@ -69,7 +69,7 @@ const stats = [
   { value: "100+", label: "AI Systems Built" },
   { value: "98%", label: "Client Satisfaction" },
   { value: "5–7 Days", label: "Average Delivery" },
-  { value: "$2M+", label: "Revenue Generated for Clients" },
+  { value: "$\u200A2M+", label: "Revenue Generated for Clients" },
 ];
 
 const StatsBar = () => {
